@@ -1,0 +1,19 @@
+.input-section {
+    margin-bottom: 10px;
+}
+
+.input-section label {
+    font-weight: bold;
+}
+
+.input-section.error {
+    color: #a00;
+}
+
+.input-section .error-msg {
+    display: none;
+}
+
+.input-section.error .error-msg {
+    display: block;
+}

@@ -1,0 +1,10 @@
+.message-detail {
+    border: 1px solid #ddd;
+    list-style-type: none;
+    padding: 0 15px 15px 15px;
+    margin-bottom: 15px;
+}
+
+.message-name-label {
+    font-weight: bold;
+}
